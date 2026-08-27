@@ -1,1 +1,837 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local r={"\119\083\078\057\113\119\053\066\080\108\118\100\110\108\121\061","\110\089\118\082\055\086\061\061","","\051\117\118\043\113\108\078\057","\056\067\069\055\051\070\084\053\051\052\050\120\069\090\080\106\052\054\049\061";"\069\117\053\088\110\054\080\069\049\108\113\112\110\090\097\085\051\076\061\061","\105\088\078\043\105\088\118\082","\048\069\084\110\099\120\048\111\074\086\061\061";"\069\108\077\052\048\097\066\098\048\117\118\115\048\122\111\122\110\102\097\061";"\113\112\118\087\098\054\069\052\069\082\098\088\051\108\069\089\049\052\109\061";"\105\088\066\066\051\109\061\061","\110\070\080\122\051\082\078\090\098\067\049\083\121\118\069\099\098\098\061\061","\080\108\118\122\055\076\061\061";"\055\102\054\057\055\099\084\068\051\122\052\098","\113\119\050\074\110\099\111\061";"\051\108\069\066\110\108\076\061";"\051\053\081\090\065\082\101\112\071\053\103\101\049\089\086\088\089\103\065\103\088\057\055\100\073\114\083\098\065\098\061\061";"\052\083\050\115\089\112\069\087\105\099\054\121\053\054\052\076\056\054\075\061","\080\117\083\097\098\082\050\100\105\099\112\074\052\117\069\083\065\089\111\061","\072\122\108\097\109\054\115\120\050\102\103\089\103\074\086\117\066\055\097\114\102\086\052\043\098\122\051\077\090\078\051\111\119\121\053\050\053\082\054\049\109\079\087\082\052\048\057\043\077\082\085\102\111\118\119\053\079\104\118\078\110\110\098\116\081\109\061\061";"\113\088\118\057\113\098\061\061";"\080\108\078\122\080\102\050\077\110\117\051\061";"\051\117\052\057\110\099\113\054","\056\119\069\049\110\088\118\112\113\089\098\061";"\105\067\054\082\113\098\061\061";"\110\070\097\061";"\110\048\113\050\069\121\078\082\080\108\080\068\055\112\085\083\105\098\061\061","\113\088\083\066\080\108\069\075","\110\118\053\053\055\117\080\112\080\099\069\105\073\117\112\099\089\098\061\061","\049\121\113\082\049\070\080\068","\051\088\052\082\110\089\052\082\105\119\053\066\105\117\087\054","\056\102\077\121\098\048\053\112\069\118\066\069\065\118\066\089";"\074\070\111\119\112\099\086\061","\065\100\109\054\113\068\075\077\065\109\061\061";"\103\103\054\112\076\098\120\079";"\051\102\050\077\110\067\098\061","\113\097\083\055\098\090\050\090\053\118\052\055\051\089\083\076";"\080\108\078\043\080\089\083\100\113\119\111\061","\119\083\078\071\113\089\085\061";"\065\109\061\061";"\110\090\118\076\053\082\083\118\052\088\083\043\080\054\118\079\080\118\097\061","\073\090\113\074\052\088\118\098\080\083\052\076\080\088\083\117\048\070\097\061";"\113\117\087\079\110\099\111\061";"\052\088\118\077\080\086\061\061";"\080\089\103\076\105\089\069\081","\119\083\078\067\105\076\061\061","\056\102\053\082\051\097\080\054\080\086\061\061";"\080\088\118\074\110\109\061\061";"\080\108\118\100\110\108\121\061";"\110\108\078\066\113\102\069\082\051\117\054\043\113\076\061\061","\048\057\075\109\110\047\076\043\078\109\054\115\120\098\061\061";"\051\099\053\074\055\089\103\067";"\066\109\071\067\049\089\047\117\073\079\069\050\054\101\110\071\105\079\107\086\050\089\117\050\103\083\078\100\051\079\110\080\055\079\047\108\080\078\113\085\053\121\111\120\097\056\112\090\105\085\073\117\098\065\050\086\081\102\051\098\070\088\088\076\074\120\052\051\065\070\120\079\097\106\068\067\071\101\047\120\121\086\120\110\069\122\076\099\090\043\102\098\104\120\069\066\066\074\084\087\070\110\054\057\067\121\055\055\119\082\080\043\056\086\116\089\107\049\077\051\081\074\111\061","\051\112\053\122\048\117\069\082\051\119\054\115\113\099\054\088\055\070\112\061";"\113\067\118\115\080\122\098\099\056\052\069\097\080\052\118\068\098\109\061\061","\119\083\078\077\110\117\053\054\073\086\061\061";"\075\100\076\067\112\089\047\049\081\074\075\120\111\098\061\061";"\121\048\084\081\055\099\066\097\073\118\053\071\121\121\080\074\113\109\061\061","\113\099\069\083\105\109\061\061";"\048\070\084\100\110\117\057\054\065\108\057\049\049\117\069\085\113\119\086\061";"\110\070\111\061";"\052\048\084\108\049\082\053\076\053\097\053\098\098\083\118\083","\110\108\052\043";"\056\111\117\113\118\088\101\109","\121\108\080\090\098\082\113\122\089\112\083\057\113\119\052\121";"\048\081\098\106\083\117\089\073\115\051\083\106\079\075\106\048\116\120\108\079\080\081\083\053\103\119\085\061";"\052\108\118\057\051\108\052\074\111\097\053\054\080\108\052\090\080\108\052\112\111\098\061\061","\069\102\113\106\089\112\083\076\110\088\080\113\121\102\113\084";"\100\111\106\065\047\085\109\061";"\110\112\068\048\090\075\108\084\113\056\087\075\052\102\089\049\120\081\084\103\079\087\084\109\087\111\086\055\103\077\068\090\052\115\088\073\110\065\071\097\120\110\070\050\079\084\047\117\102\113\072\067\083\076\061\061"}for o,f in ipairs({{568119-568118;695471+-695401},{-509511+509512;-875544+875579},{-972769+972805;-243149+243219}})do while f[174552+-174551]<f[608083+-608081]do r[f[465640+-465639]],r[f[-889898+889900]],f[-432048+432049],f[-158235-(-158237)]=r[f[710325+-710323]],r[f[-698303-(-698304)]],f[196683-196682]+(640439-640438),f[131475+-131473]-(649781-649780)end end local function o(o)return r[o+(-887644-(-917172))]end do local o=r local f=table.insert local i=string.char local A=string.sub local u=table.concat local N=string.len local E={v=-851973+851978;["\048"]=906856-906837;H=-103098+103158;R=523286-523234,B=-223374-(-223407);["\052"]=-402813-(-402834);z=998373-998322,["\057"]=905314-905269;u=782656+-782618,m=-71974+72006;["\047"]=-126727+126742,E=-592672+592685,l=36129+-36123,["\050"]=-462413+462422,e=-1013538-(-1013580);t=25740-25709;L=-148569-(-148617),Q=412093+-412050,N=698185+-698124;["\056"]=-658017+658035;w=341860-341837,O=360924+-360877;I=822200+-822170;p=727125-727089,n=510535+-510508,D=-780726+780728,["\043"]=-1043101+1043147,f=133023+-133016,["\053"]=139904+-139887;V=-380359-(-380359);W=144433+-144384,P=-925737+925766,F=837647-837644,b=992638-992622,s=-667648-(-667658);["\054"]=147507-147470,k=-318131+318193;g=-67033+67090,A=1017003+-1016989,h=57522+-57463,Z=-528556+528591,["\049"]=-787128+787140;M=-532351+532392,Y=-81492+81514;["\055"]=-128848+128874,j=-838599-(-838610),G=555198-555154,o=-182413+182421,q=813782+-813757;d=969925+-969891;i=-691600-(-691624);J=590292+-590242;x=-74358+74416;y=634804-634784,r=-891006-(-891069),T=8084-8083;["\051"]=369780+-369752;c=-874461-(-874516),X=-169970-(-170024),K=994030+-993990,U=607055-606999;S=-122744-(-122797),C=-586006+586045;a=-924482+924486}local b=type local n=math.floor for r=427302+-427301,#o,-755147+755148 do local s=o[r]if b(s)=="\115\116\114\105\110\103"then local b=N(s)local M={}local w=498210+-498209 local l=-424599+424599 local K=-892498-(-892498)while w<=b do local r=A(s,w,w)local o=E[r]if o then l=l+o*(-395541-(-395605))^((-329647+329650)-K)K=K+(446449+-446448)if K==681051-681047 then K=-554163+554163 local r=n(l/(-903711+969247))local o=n((l%(807596-742060))/(-1040486+1040742))local A=l%(858507+-858251)f(M,i(r,o,A))l=378560-378560 end elseif r=="\061"then f(M,i(n(l/(-746292+811828))))if w>=b or A(s,w+(-35057-(-35058)),w+(-206332+206333))~="\061"then f(M,i(n((l%(752993-687457))/(904075+-903819))))end break end w=w+(603998+-603997)end o[r]=u(M)end end end return(function(r,i,A,u,N,E,b,V,l,I,s,w,S,O,n,y,x,M,K,C,f)C,n,M,x,f,O,s,l,y,I,K,S,w,V=function(r,o)local i=l(o)local A=function()return f(r,{},o,i)end return A end,{},function()w=w+(154122-154121)s[w]=-1014430-(-1014431)return w end,function(r,o)local i=l(o)local A=function(...)return f(r,{...},o,i)end return A end,function(f,A,u,N)local H,P,c,T,F,Q,p,g,B,Z,z,Y,v,W,a,K,t,x,D,k,e,l,G,s,h,b,m,U,R,w,X,L,d,q while f do if f<63798+8818020 then if f<4318030-(-331113)then if f<1360326-(-78509)then if f<-649539+1191638 then if f<-650972+858508 then if f<135801+38437 then if f<408346+-364448 then m=-339234-(-339235)Y=L[m]W=Y f=-923504+8712663 else Q=F U=o(-627716+598205)q=r[U]U=o(-359305+329837)f=8707892-(-679465)D=q[U]q=D(s,Q)D=n[u[-410033-(-410039)]]U=D()z=q+U U=-805491-(-805492)Q=nil R=z+P z=425633+-425377 k=R%z P=k z=l[w]q=P+U D=K[q]R=z..D l[w]=R end else z=#k f=4737705-(-1003731)Z=-649624-(-649624)R=z==Z end else if f<1201957-818069 then if f<120769+131833 then b={b}f=r[o(-244085-(-214582))]else f=r[o(-852542-(-823058))]b={}end else f=11887083-(-325665)end end else if f<1323534-202143 then if f<-1044494+1986328 then if f<1228475-333864 then g=nil h=M()R={}z=M()n[z]=R f=r[o(957900-987383)]m=nil Z=I(-634921+5301791,{z;G,F;x})e=o(-852533+823071)R=M()L=o(-202528+173036)n[R]=Z Z={}x=V(x)n[h]=Z a=o(-143873-(-114366))k=nil Q=nil Z=r[e]x=O(13477820-88368,{K,w})P=nil v={}T=n[h]H={[a]=T,[L]=m}e=Z(v,H)Z=y(11463998-485526,{h,z,p;G,F,R})P=C(8862609-(-897645),{K,w})n[K]=e z=V(z)F=V(F)n[w]=Z X=nil l=nil l=M()b={}R=V(R)p=V(p)n[l]=x x=S(1551351-(-217092),{l,K;w})G=V(G)k=o(275939+-305399)h=V(h)G=o(412837-442317)Q=r[G]F=n[K]X=n[w]R=1023631+32361229442126 p=X(k,R)G=F[p]g=Q[G]G=o(733199+-762679)Q=g(x)Q=r[G]F=n[K]X=n[w]k=o(238954+-268448)R=26305090588954-401729 p=X(k,R)G=F[p]g=Q[G]Q=g(P)x=nil l=V(l)P=nil K=V(K)w=V(w)else b=o(762268-791783)f=r[b]K=n[u[927274+-927272]]x=n[u[-518443-(-518446)]]Q=-110565+18711678964206 g=o(298017-327529)P=x(g,Q)l=K[P]b=f(l,s)f=14886063-133536 end else f=Y f=10611155-43587 b=W end else if f<1320466-(-79483)then if f<925953-(-217933)then G=481947-481692 Q=-268873-(-268873)w=l f=n[u[649532-649531]]g=f(Q,G)s[w]=g f=3896079-656588 w=nil else U=o(-683017+653546)f=r[U]h=o(-813006-(-783539))Z=r[h]U=f(Z)f=o(-950613+921111)r[f]=U f=101874-(-289543)end else W=n[w]f=W and 942049-(-518083)or 11233464-665896 b=W end end end else if f<-172212+3502240 then if f<1249387-(-892654)then if f<1143720-(-604756)then if f<1418935-(-147345)then Y=f B=-547698+547699 t=L[B]B=false m=t==B W=m f=m and 3046831-(-70489)or 845064-(-227460)else w=o(857590+-887062)b=o(-709397-(-679884))f=r[b]Q=726589+14345197437915 s=r[w]K=n[u[-229227+229228]]x=n[u[-459566+459568]]g=o(-1065874-(-1036364))P=x(g,Q)l=K[P]K=o(503604-533120)K=s[K]w={K(s,l)}b=f(i(w))f=b()f=r[o(761452+-790973)]b={}end else b=n[u[-931337-(-931338)]]s=b()f=not s f=f and 12601151-(-129765)or 740869+2034240 end else if f<759400+2403118 then if f<-498651+3608304 then b=o(648165-677642)w=I(-541303+9230482,{u[-667351+667353];u[767234-767231]})f=r[b]l={f(w)}b=l[314357-314356]s=l[317888-317886]w=b f=not w f=f and-893746+1796949 or-370825+15123352 else B=-191560-(-191562)f=475713+596811 t=L[B]B=n[T]m=t==B W=m end else g=not P l=l+x w=l<=K w=g and w g=l>=K g=P and g w=g or w g=-385914+1512810 f=w and g w=-70659+16603930 f=f or w end end else if f<-289836+4349384 then if f<841239+3047646 then if f<-53212+3588870 then w=n[u[-785528-(-785531)]]X=503363+-503350 l=523978-523946 G=780493+-780491 s=w%l K=n[u[244339+-244335]]g=n[u[-1004192+1004194]]R=n[u[653922-653919]]k=R-s R=848737-848705 p=k/R F=X-p Q=G^F G=-557490-(-557746)P=g/Q x=K(P)K=204830+4294762466 l=x%K x=-365022+365024 Q=-720460+720461 K=x^s w=l/K K=n[u[-17874+17878]]g=w%Q Q=4295831717-864421 P=g*Q x=K(P)K=n[u[582467+-582463]]P=K(w)l=x+P x=-927769-(-993305)g=-489930+555466 K=l%x s=nil w=nil P=l-K x=P/g g=-858464-(-858720)X=930459+-930203 l=nil P=K%g Q=K-P g=Q/G f=13609829-993175 G=464060+-463804 Q=x%G K=nil F=x-Q G=F/X x=nil F={P;g;Q,G}g=nil n[u[-364011+364012]]=F Q=nil P=nil G=nil else w=n[u[890185-890184]]K=641634-641633 x=732517-732515 l=w(K,x)w=128660-128659 s=l==w f=s and 7652363-(-207071)or 13710123-(-897124)b=s end else f=n[u[338327+-338320]]f=f and 10975918-(-489807)or 255564+6349990 end else if f<4203218-73221 then f=true f=f and-795183+12073075 or 597378+11919094 else Z=o(-953120+923618)f=r[Z]Z=o(463035+-492502)r[Z]=f f=-749894+1141311 end end end end else if f<6520313-(-134236)then if f<5736892-87123 then if f<-928316+5723938 then if f<1046249+3653586 then if f<-842256+5528273 then s=n[u[573779-573778]]b=#s s=-621514-(-621514)f=b==s f=f and-215472+12359924 or 12271531-(-345123)else g=759364-759109 f={}F=-675394-(-675395)Q=o(-997458+967947)n[u[-1028303+1028305]]=f b=n[u[-630242+630245]]K=b f=-59621+9446978 X=F x=228781+35184371860051 b=w%x n[u[619841+-619837]]=b P=w%g g=-882301+882303 x=P+g n[u[-595361-(-595366)]]=x g=r[Q]Q=o(-35826-(-6326))P=g[Q]g=P(s)P=o(2295-31785)l[w]=P P=970719+-970645 G=g Q=683714+-683713 F=454638+-454638 p=X<F F=Q-X end else Y=n[w]W=Y f=Y and 386772+-356826 or 641101+7148058 end else if f<6006220-871452 then if f<4653107-(-394158)then h=M()n[h]=D e=o(-57765+28274)b=r[e]v=-149800-(-149900)e=o(979250-1008739)T=152938+-152937 f=b[e]e=790879-790878 b=f(e,v)v=299125-299125 e=M()H=973110-972855 n[e]=b f=n[g]b=f(v,H)v=M()n[v]=b c=347825-347825 L=-288462+288464 H=487125-487124 f=n[g]a=n[e]b=f(H,a)m=o(1041517+-1070988)H=M()n[H]=b b=n[g]a=b(T,L)L=o(-754519+724996)b=84107-84106 f=a==b a=M()n[a]=f b=o(494886-524345)d=-782932+792932 Y=r[m]t=n[g]B={t(c,d)}f=o(566237-595741)m=Y(i(B))f=R[f]Y=o(235533-265056)W=m..Y T=L..W L=o(275101-304578)f=f(R,b,T)T=M()n[T]=f b=r[L]W=S(3885074-187697,{g;h,F,l,w;z;a;T;e,H,v;G})L={b(W)}f={i(L)}L=f f=n[a]f=f and 928000+494959 or 5263789-533352 else D=D+U b=D<=q h=not Z b=h and b h=D>=q h=Z and h b=h or b h=-276834+5323922 f=b and h b=491211+13887816 f=f or b end else e=V(e)L=nil h=V(h)T=V(T)a=V(a)f=4381783-(-685762)v=V(v)H=V(H)end end else if f<5862681-(-704853)then if f<-27387+6493028 then if f<6211665-183356 then Z=#k z=-641319+641320 R=l(z,Z)v=1016294-1016293 f=15771491-(-52661)z=P(k,R)R=nil Z=n[p]e=z-v h=g(e)Z[z]=h z=nil else f=true f=f and-202263+8026723 or 15038391-(-483219)end else G=M()X=-135403+135468 n[G]=b f=n[g]F=190575-190572 R=O(250901+12251475,{})k=o(924032-953509)b=f(F,X)f=-1003375+1003375 F=M()X=f f=581917+-581917 p=f n[F]=b b=r[k]U=o(-924963-(-895492))k={b(R)}f={i(k)}k=f b=354576+-354574 f=k[b]R=f b=o(331160+-360685)f=r[b]z=n[l]q=r[U]U=q(R)q=o(908009-937468)D=z(U,q)z={D()}b=f(i(z))z=M()n[z]=b f=4610229-(-457316)D=n[F]b=1025767+-1025766 q=D D=-728273-(-728274)U=D D=-56254+56254 Z=U<D D=b-U end else if f<5746898-(-854516)then F=o(-581559+552041)f=5884898-(-668366)G=r[F]b=G else f={}w=52224+-52223 l=n[u[-79121-(-79130)]]K=l s=f f=2707276-(-532215)l=-1044523-(-1044524)x=l l=738036+-738036 P=x<l l=w-x end end end else if f<245363+7618054 then if f<396283+7397227 then if f<-648076+8418875 then if f<194195+6663929 then w=nil s=nil f=r[o(126623+-156089)]b={}else f=n[g]U=774602-774601 Z=-648840-(-648846)q=f(U,Z)f=o(-805367-(-775865))Z=o(730741+-760243)r[f]=q U=r[Z]Z=-247058-(-247060)f=U>Z f=f and 2035952-853289 or-124271+4434211 end else n[w]=W c=-213136-(-213137)B=n[H]t=B+c m=L[t]Y=X+m m=-292890-(-293146)f=Y%m X=f t=n[v]m=p+t t=243661-243405 Y=m%t f=4319742-(-888299)p=Y end else if f<-556773+8386678 then if f<8840233-1020958 then b=o(848586+-878111)K=o(333736-363207)f=r[b]s=n[u[247444+-247440]]Q=o(-837445+807968)l=r[K]g=r[Q]G=S(-759895+10816128,{})Q={g(G)}P={i(Q)}g=266461-266459 x=P[g]K=l(x)l=o(389200-418659)w=s(K,l)s={w()}b=f(i(s))s=b w=n[u[-534877-(-534882)]]b=w f=w and-49846+12357219 or 226860+11394202 else f=971514+11241234 end else f=b and 7068389-(-725424)or-875515+4930830 end end else if f<8080851-(-547930)then if f<434457+7647579 then if f<184949+7829252 then f=l()f=r[o(423196-452691)]w=nil b={}s=nil l=nil else f=true f=1041635+14479975 end else s=o(-220115-(-190619))b=o(-681403+651925)f=r[b]b=f(s)f=r[o(553820+-583281)]b={}end else if f<696973+8010634 then b=o(-797080-(-767608))f=r[b]w=n[u[-150611-(-150612)]]b=o(228100-257616)x=o(898434+-927927)b=f[b]l=n[u[-990769-(-990771)]]P=31451175175975-314866 K=l(x,P)s=w[K]b=b(f,s)s=b b=o(558248+-587775)f=r[b]l=n[u[-1042102-(-1042103)]]g=-439771+26532073874973 K=n[u[749258+-749256]]P=o(318397-347894)x=K(P,g)w=l[x]l=#s b=f(w,l)b=o(-300606-(-271093))f=r[b]l={f(s)}b=l[-508602+508603]w=l[470019-470017]l=b f=not l f=f and 12752462-984972 or 6997174-(-866653)else f=true s=A w=M()l=o(-946793-(-917282))n[w]=f b=r[l]l=o(746669-776134)f=b[l]l=M()g=o(-471724+442247)n[l]=f x=M()f=O(9034359-441433,{})K=M()n[K]=f f=false n[x]=f Q=C(15408318-(-362782),{x})P=r[g]g=P(Q)f=g and-147434+9098298 or 14284710-(-872538)b=g end end end end end else if f<13147576-623606 then if f<-661477+11959310 then if f<9980208-(-130763)then if f<10291529-608129 then if f<1037044+8483458 then if f<9368501-380691 then P=n[x]f=-1015899+16173147 b=P else k=not p F=F+X Q=F<=G Q=k and Q k=F>=G k=p and k Q=k or Q k=352244-203421 f=Q and k Q=10599057-(-676084)f=f or Q end else b=o(878996+-908511)g=o(-987621-(-958115))f=r[b]K=n[u[-619903+619904]]x=n[u[-337820-(-337822)]]Q=-864644+9740185404219 P=x(g,Q)l=K[P]b=f(l,s)f=988654+5757985 end else if f<10064892-31939 then if f<-595613+10356805 then b=o(-245706-(-216229))f=r[b]w=O(2371862-638443,{u[391476+-391475],u[-348263+348265]})l={f(w)}b=l[744857+-744856]w=b f=not w f=f and-819641+10486643 or-602911+7349550 s=l[-1007116-(-1007118)]else K=o(331965+-361437)Q=o(940088+-969573)l=r[K]x=n[u[-1005069+1005070]]P=n[u[-563855-(-563857)]]G=1085732273462-490301 g=P(Q,G)K=x[g]w=l[K]l=283077+142540214 s=w==l f=s and-811170+1027227 or 15132869-(-103657)b=s end else w=o(-1007215-(-977752))l=4141491-881647 b=-850130+12782268 s=w^l f=b-s b=o(879631-909132)s=f f=b/s b={f}f=r[o(427394+-456868)]end end else if f<-717232+11913991 then if f<10823678-(-170941)then if f<1005643+9709200 then n[w]=b f=53794+5154247 else w=A[826018-826016]f=n[u[978285+-978284]]l=f f=l[w]s=A[727535+-727534]f=f and 11363033-287629 or-124660+4816365 end else f=12063836-539725 end else if f<11076728-(-199612)then f=11609640-85529 g=nil K=nil P=nil else b=o(-171284-(-141782))s=o(-291184+261717)f=r[b]b=r[s]s=o(467628+-497095)r[s]=f f=4323292-262051 s=o(-199851+170349)r[s]=b s=n[u[1046336+-1046335]]w=s()end end end else if f<11414386-(-755502)then if f<-437325+12075407 then if f<-278078+11822228 then if f<-252850+11768256 then l=-153139-(-153139)s=o(-760861-(-731383))f=r[s]w=n[u[-587053+587061]]s=f(w,l)f=5628643-(-976911)else b={w}f=r[o(397474+-426983)]end else f=-602464+4657779 n[u[-858595-(-858600)]]=b s=nil end else if f<91678+11893294 then if f<10778616-(-951970)then n[w]=D f=n[w]f=f and 426936+14463564 or 41734+8026672 else b=o(-1007904-(-978389))Q=o(125796-155272)f=r[b]x=n[u[235464-235463]]G=-609980+27097985613830 P=n[u[-545489+545491]]g=P(Q,G)K=x[g]b=f(K,w)f=r[o(286372-315877)]b={}end else l=241678+-241473 w=n[u[336316-336314]]s=w*l w=3728503072328-368511 b=s+w w=513380+-513379 s=35184371846560-(-242272)f=b%s n[u[210683+-210681]]=f s=n[u[-489187-(-489190)]]f=14723147-(-147049)b=s~=w end end else if f<947002+11414913 then if f<270303+11964954 then if f<1035835+11187660 then f=true f=f and-699441+8218396 or-306786-(-688326)else f=14539518-(-100944)R=z v=R k[R]=v R=nil end else l=n[u[-568383+568389]]f=736180+10884882 w=l==s b=w end else if f<-726119+13231122 then w=o(-386089-(-356563))b=5302764-26205 l=68296+13393230 s=w^l f=b-s b=o(-178635-(-149156))s=f f=b/s b={f}f=r[o(-924170-(-894706))]else f=r[o(771658+-801156)]b={}end end end end else if f<14339385-(-299333)then if f<-640736+14475884 then if f<-188296+13133821 then if f<530819+12097623 then if f<12789653-240024 then l=-1008883-(-1008884)w=n[u[-778758+778761]]s=w~=l f=s and 2844038-(-514354)or 1012880+13857316 else l=o(-188426-(-158912))w=r[l]l=o(-813998-(-784528))s=w[l]l=n[u[755401+-755400]]w={s(l)}b={i(w)}f=r[o(-585657+556149)]end else b=o(225103+-254618)f=r[b]w=n[u[508776+-508774]]x=o(996923+-1026396)P=13952168149573-(-546587)l=n[u[136063+-136060]]K=l(x,P)s=w[K]b=f(s)f=r[o(376212-405734)]b={}end else if f<-314236+13796943 then if f<-809437+14190569 then q=X==p D=q f=10805680-(-845329)else s=o(-181873+152401)b=r[s]s=o(-59858+30389)s=b[s]s=s(b)f=not s f=f and 521202+15173237 or 10203694-359323 end else k=o(-25193+-4321)p=r[k]k=o(484104-513622)X=p[k]G=X f=14383327-99020 end end else if f<13855205-(-539443)then if f<14327983-7651 then if f<14761965-480493 then f=4964469-903228 else b=G f=F f=G and 7267780-714516 or-195570+6778781 end else q=n[w]f=q and-343734+13723631 or 950018+10700991 D=q end else if f<14399419-(-16954)then G=V(G)k=nil P=nil R=nil w=V(w)F=V(F)X=nil l=V(l)g=V(g)p=nil X={}R=-71792+71793 l=nil z=V(z)z=-1003487+1003743 g=o(-431652+402161)G=o(36118-65629)x=V(x)w=nil K=V(K)Q=nil K=M()P=o(-777418+747927)n[K]=w w=M()n[w]=l x=r[P]P=o(448005+-477525)l=x[P]x=M()Z=z n[x]=l P=r[g]F=M()g=o(73763-103252)Q=o(1016999+-1046513)l=P[g]g=r[Q]Q=o(-584337+554867)P=g[Q]Q=r[G]G=o(871935-901417)g=Q[G]Q=421861+-421861 k={}G=M()n[G]=Q Q=-343251+343253 n[F]=Q z=-238949+238950 Q={}p=M()n[p]=X h=z z=444911-444911 f=14193589-(-446873)X=-639815+639815 e=h<z z=R-h else w=n[u[937243-937241]]l=n[u[-354251-(-354254)]]s=w==l f=8782544-923110 b=s end end end else if f<760630+14614840 then if f<15775959-903886 then if f<14096967-(-723576)then if f<14052743-(-651823)then z=z+h v=not e R=z<=Z R=v and R v=z>=Z v=e and v R=v or R v=13104677-870343 f=R and v R=-418862+618599 f=f or R else s=nil w=nil b={}f=r[o(401641-431116)]end else w=n[u[-1012222-(-1012225)]]l=-94032-(-94224)s=w*l w=359416-359159 b=s%w n[u[-42460+42463]]=b f=12627309-101316 end else if f<15052586-(-182555)then if f<14661975-(-385686)then f=-995361+15390075 else P=b g=o(611764-641255)Q=o(349541+-379055)b=r[g]g=o(327785-357274)f=b[g]g=M()n[g]=f b=r[Q]Q=o(-543012-(-513526))f=b[Q]Q=f F=f p=o(882971+-912485)X=r[p]f=X and-958083+14480153 or 13321224-(-963083)G=X end else K=o(-827600+798128)l=r[K]x=n[u[644068-644067]]f=219735-3678 P=n[u[-557673+557675]]G=944019+2243193527425 Q=o(-178966-(-149508))g=P(Q,G)K=x[g]w=l[K]l=-155995+66810130 s=w==l b=s end end else if f<16448412-667784 then if f<-529451+16235321 then if f<15894147-208766 then f=C(15012352-762035,{K})q={f()}b={i(q)}f=r[o(575892-605380)]else s=o(480726-510198)x=o(-107430+77931)b=r[s]w=n[u[-518849-(-518850)]]l=n[u[-944259+944261]]P=784758+30690918727261 K=l(x,P)s=w[K]f=b[s]b=o(-121552-(-92033))b=f[b]b=b(f)f=-668193+10512564 end else b={}f=true n[u[-156504-(-156505)]]=f f=r[o(656308+-685789)]end else if f<15371051-(-889427)then Z=-1044033+1044033 z=#k R=z==Z f=R and 635359-(-201595)or 5103920-(-637516)else f=n[u[347755+-347745]]w=n[u[-576698-(-576709)]]s[f]=w f=n[u[715068+-715056]]w={f(s)}b={i(w)}f=r[o(810063-839550)]end end end end end end end f=#N return i(b)end,function(r,o)local i=l(o)local A=function(A,u,N,E)return f(r,{A,u;N;E},o,i)end return A end,{},function(r)for o=-1009560-(-1009561),#r,-685463+685464 do s[r[o]]=(905893-905892)+s[r[o]]end if A then local f=A(true)local i=N(f)i[o(877776-907283)],i[o(-904349+874832)],i[o(328048-357572)]=r,K,function()return-842103+-3150390 end return f else return u({},{[o(-1039330-(-1009813))]=K;[o(-693776+664269)]=r;[o(-814282+784758)]=function()return-4934422-(-941929)end})end end,function(r,o)local i=l(o)local A=function(A,u,N)return f(r,{A;u,N},o,i)end return A end,function(r,o)local i=l(o)local A=function(A,u,N,E,b)return f(r,{A;u,N,E,b},o,i)end return A end,function(r)local o,f=286709+-286708,r[672332+-672331]while f do s[f],o=s[f]-(-450766+450767),o+(499115-499114)if-1003281-(-1003281)==s[f]then s[f],n[f]=nil,nil end f=r[o]end end,function(r,o)local i=l(o)local A=function(A)return f(r,{A},o,i)end return A end,-950654-(-950654),function(r)s[r]=s[r]-(398887+-398886)if s[r]==5421-5421 then s[r],n[r]=nil,nil end end return(x(-673924+9390317,{}))(i(b))end)(getfenv and getfenv()or _ENV,unpack or table[o(-908133+878615)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- Alienware Minimal Version [ESP, Player, Teleport Only]
+-- Redesigned UI: Top Navigation Bar Layout
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local UIS = game:GetService("UserInputService")
+local HttpService = game:GetService("HttpService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+
+local Camera = workspace.CurrentCamera
+local Active = true
+local AllConnections = {}
+local ThemeColorElements = {}
+
+local function TrackConn(conn)
+	table.insert(AllConnections, conn)
+	return conn
+end
+
+-- PERSISTENCE
+local SETTINGS_FILE = "mm2_minimal_settings.json"
+
+local function safeReadSettings()
+	if not isfile or not readfile or not isfile(SETTINGS_FILE) then return {} end
+	local ok, data = pcall(function() return HttpService:JSONDecode(readfile(SETTINGS_FILE)) end)
+	if ok and type(data) == "table" then return data end
+	return {}
+end
+
+local function safeWriteSettings(tbl)
+	if not writefile then return end
+	pcall(function() writefile(SETTINGS_FILE, HttpService:JSONEncode(tbl)) end)
+end
+
+local saved = safeReadSettings()
+
+-- USER SETTINGS
+local ThemeHue = saved.ThemeHue or 140
+local HotkeyKey = Enum.KeyCode[saved.HotkeyKey or "RightShift"]
+local WaitingForKey = false
+local GuiScale = saved.GuiScale or 1
+
+-- ESP SETTINGS
+local InnocentHue = saved.InnocentHue or 120
+local MurdererHue = saved.MurdererHue or 0
+local SheriffHue  = saved.SheriffHue  or 240
+local GunHue      = saved.GunHue      or 180
+local EspFillTransparency = saved.EspFillTransparency or 100
+local GunEspFillTransparency = saved.GunEspFillTransparency or 70
+
+local ChamsESPEnabled = saved.ChamsESPEnabled ~= false
+local RoleESPEnabled  = saved.RoleESPEnabled  ~= false
+local GunESPEnabled   = saved.GunESPEnabled   ~= false
+local GunTextESPEnabled = saved.GunTextESPEnabled ~= false
+local XrayEnabled     = saved.XrayEnabled     == true
+local FreecamEnabled  = saved.FreecamEnabled  == true
+local FreecamSpeed    = saved.FreecamSpeed    or 50
+
+-- PLAYER SETTINGS
+local NoclipEnabled   = saved.NoclipEnabled   == true
+local FlyEnabled      = saved.FlyEnabled      == true
+local AntiFlingEnabled = saved.AntiFlingEnabled == true
+local InfiniteZoomEnabled = saved.InfiniteZoomEnabled == true
+local InfiniteJumpEnabled = saved.InfiniteJumpEnabled == true
+local PlayerSpeed = saved.PlayerSpeed or 16
+local PlayerJump  = saved.PlayerJump  or 50
+local FlySpeed    = saved.FlySpeed    or 50
+local PlayerSpinSpeed = saved.PlayerSpinSpeed or 0
+local PlayerFOV   = saved.PlayerFOV   or 70
+local MaxZoomDist = saved.MaxZoomDist or 400
+
+-- TELEPORT SETTINGS
+local AutoGrabGunEnabled = saved.AutoGrabGunEnabled == true
+
+local function SaveAllSettings()
+	safeWriteSettings({
+		ThemeHue             = ThemeHue,
+		HotkeyKey            = HotkeyKey.Name,
+		GuiScale             = GuiScale,
+		ChamsESPEnabled      = ChamsESPEnabled,
+		RoleESPEnabled       = RoleESPEnabled,
+		GunESPEnabled        = GunESPEnabled,
+		GunTextESPEnabled    = GunTextESPEnabled,
+		XrayEnabled          = XrayEnabled,
+		FreecamEnabled       = FreecamEnabled,
+		FreecamSpeed         = FreecamSpeed,
+		NoclipEnabled        = NoclipEnabled,
+		FlyEnabled           = FlyEnabled,
+		AntiFlingEnabled     = AntiFlingEnabled,
+		InfiniteZoomEnabled  = InfiniteZoomEnabled,
+		InfiniteJumpEnabled  = InfiniteJumpEnabled,
+		AutoGrabGunEnabled   = AutoGrabGunEnabled,
+		PlayerSpeed          = PlayerSpeed,
+		PlayerJump           = PlayerJump,
+		FlySpeed             = FlySpeed,
+		PlayerSpinSpeed      = PlayerSpinSpeed,
+		PlayerFOV            = PlayerFOV,
+		MaxZoomDist          = MaxZoomDist,
+		InnocentHue          = InnocentHue,
+		MurdererHue          = MurdererHue,
+		SheriffHue           = SheriffHue,
+		GunHue               = GunHue,
+		EspFillTransparency  = EspFillTransparency,
+		GunEspFillTransparency = GunEspFillTransparency,
+	})
+end
+
+local function GetThemeColor()
+	return Color3.fromHSV(ThemeHue / 360, 0.8, 0.9)
+end
+
+local function ApplyThemeColor()
+	local c = GetThemeColor()
+	for _, item in ipairs(ThemeColorElements) do
+		if item.inst and item.inst.Parent then
+			item.inst[item.prop] = c
+		end
+	end
+end
+
+-- ============================================================
+-- CORE PLAYER LOGIC
+-- ============================================================
+TrackConn(RunService.Heartbeat:Connect(function(dt)
+	if not Active then return end
+	local char = LocalPlayer.Character
+	local hrp = char and char:FindFirstChild("HumanoidRootPart")
+	if hrp and PlayerSpinSpeed > 0 then
+		hrp.CFrame = hrp.CFrame * CFrame.Angles(0, math.rad(PlayerSpinSpeed * dt * 10), 0)
+	end
+end))
+
+local function ApplyCharacterStats()
+	local char = LocalPlayer.Character
+	if not char then return end
+	local hum = char:FindFirstChildOfClass("Humanoid")
+	if hum then
+		hum.WalkSpeed = PlayerSpeed
+		hum.JumpPower = PlayerJump
+	end
+end
+
+TrackConn(UIS.JumpRequest:Connect(function()
+	if InfiniteJumpEnabled and Active then
+		local char = LocalPlayer.Character
+		local hum = char and char:FindFirstChildOfClass("Humanoid")
+		if hum then hum:ChangeState(Enum.HumanoidStateType.Jumping) end
+	end
+end))
+
+local function ApplyFOV() Camera.FieldOfView = PlayerFOV end
+
+local ZOOM_BIND_NAME = "MinimalZoomOverride"
+local function SetZoom(min, max)
+	LocalPlayer.CameraMinZoomDistance = min
+	LocalPlayer.CameraMaxZoomDistance = max
+end
+
+local function EnableInfiniteZoom()
+	pcall(function() RunService:UnbindFromRenderStep(ZOOM_BIND_NAME) end)
+	RunService:BindToRenderStep(ZOOM_BIND_NAME, Enum.RenderPriority.Camera.Value + 1, function()
+		if not InfiniteZoomEnabled or not Active then
+			pcall(function() RunService:UnbindFromRenderStep(ZOOM_BIND_NAME) end)
+			return
+		end
+		SetZoom(0.5, MaxZoomDist)
+	end)
+end
+
+local function DisableInfiniteZoom()
+	pcall(function() RunService:UnbindFromRenderStep(ZOOM_BIND_NAME) end)
+	SetZoom(0.5, 400)
+end
+
+TrackConn(LocalPlayer.CharacterAdded:Connect(function()
+	task.wait(0.6)
+	ApplyCharacterStats()
+	ApplyFOV()
+	if InfiniteZoomEnabled then EnableInfiniteZoom() end
+end))
+
+-- FREECAM
+local freecamConn, fcInputConn, fcPart
+local CursorLocked = true
+local originalAnchorState = false
+
+local function StopFreecam()
+	if freecamConn then freecamConn:Disconnect() freecamConn = nil end
+	if fcInputConn then fcInputConn:Disconnect() fcInputConn = nil end
+	if fcPart then fcPart:Destroy() fcPart = nil end
+	Camera.CameraType = Enum.CameraType.Custom
+	UIS.MouseBehavior = Enum.MouseBehavior.Default
+	local char = LocalPlayer.Character
+	if char then
+		local hrp = char:FindFirstChild("HumanoidRootPart")
+		if hrp then hrp.Anchored = originalAnchorState end
+		local hum = char:FindFirstChildOfClass("Humanoid")
+		if hum then Camera.CameraSubject = hum end
+	end
+end
+
+local function StartFreecam()
+	StopFreecam()
+	if not FreecamEnabled or not Active then return end
+	fcPart = Instance.new("Part", workspace)
+	fcPart.Anchored, fcPart.CanCollide, fcPart.Transparency = true, false, 1
+	fcPart.CFrame = Camera.CFrame
+	Camera.CameraType = Enum.CameraType.Scriptable
+	local char = LocalPlayer.Character
+	local hrp = char and char:FindFirstChild("HumanoidRootPart")
+	if hrp then originalAnchorState = hrp.Anchored; hrp.Anchored = true end
+	CursorLocked = true
+	local lookVec = Camera.CFrame.LookVector
+	local yaw = math.atan2(-lookVec.X, -lookVec.Z)
+	local pitch = math.asin(math.clamp(lookVec.Y, -1, 1))
+
+	fcInputConn = UIS.InputBegan:Connect(function(input, gp)
+		if not gp and input.KeyCode == Enum.KeyCode.V then CursorLocked = not CursorLocked end
+	end)
+
+	freecamConn = RunService.RenderStepped:Connect(function(dt)
+		if not FreecamEnabled or not Active then StopFreecam() return end
+		if CursorLocked then
+			UIS.MouseBehavior = Enum.MouseBehavior.LockCenter
+			local delta = UIS:GetMouseDelta()
+			yaw = yaw - math.rad(delta.X * 0.25)
+			pitch = math.clamp(pitch - math.rad(delta.Y * 0.25), -math.pi / 2 + 0.01, math.pi / 2 - 0.01)
+		else UIS.MouseBehavior = Enum.MouseBehavior.Default end
+
+		local cf = CFrame.new(fcPart.Position) * CFrame.Angles(0, yaw, 0) * CFrame.Angles(pitch, 0, 0)
+		local moveDir = Vector3.zero
+		if UIS:IsKeyDown(Enum.KeyCode.W) then moveDir += cf.LookVector end
+		if UIS:IsKeyDown(Enum.KeyCode.S) then moveDir -= cf.LookVector end
+		if UIS:IsKeyDown(Enum.KeyCode.A) then moveDir -= cf.RightVector end
+		if UIS:IsKeyDown(Enum.KeyCode.D) then moveDir += cf.RightVector end
+		if UIS:IsKeyDown(Enum.KeyCode.Space) then moveDir += Vector3.yAxis end
+		if UIS:IsKeyDown(Enum.KeyCode.LeftShift) then moveDir -= Vector3.yAxis end
+
+		if moveDir.Magnitude > 0 then
+			fcPart.CFrame = CFrame.new(fcPart.Position + moveDir.Unit * (FreecamSpeed * dt)) * CFrame.Angles(0, yaw, 0) * CFrame.Angles(pitch, 0, 0)
+		else fcPart.CFrame = cf end
+		Camera.CFrame = fcPart.CFrame
+	end)
+end
+
+local function ToggleFreecam(state)
+	FreecamEnabled = state
+	if FreecamEnabled then StartFreecam() else StopFreecam() end
+	SaveAllSettings()
+end
+
+-- NOCLIP
+local noclipConnection
+local function ToggleNoclip(state)
+	NoclipEnabled = state
+	if noclipConnection then noclipConnection:Disconnect() noclipConnection = nil end
+	if NoclipEnabled then
+		noclipConnection = RunService.Stepped:Connect(function()
+			local char = LocalPlayer.Character
+			if char then
+				for _, part in ipairs(char:GetChildren()) do
+					if part:IsA("BasePart") and part.CanCollide then part.CanCollide = false end
+				end
+			end
+		end)
+		TrackConn(noclipConnection)
+	end
+	SaveAllSettings()
+end
+
+-- ANTI FLING
+local trackedPlayers = {}
+local function BuildCache(player)
+	if player == LocalPlayer or not player.Character then return end
+	local parts = {}
+	for _, part in ipairs(player.Character:GetDescendants()) do if part:IsA("BasePart") then parts[#parts + 1] = part end end
+	trackedPlayers[player] = parts
+	TrackConn(player.Character.DescendantAdded:Connect(function(part)
+		if part:IsA("BasePart") then local cache = trackedPlayers[player] if cache then cache[#cache + 1] = part end end
+	end))
+	TrackConn(player.Character.AncestryChanged:Connect(function(_, parent) if not parent then trackedPlayers[player] = nil end end))
+end
+
+for _, p in ipairs(Players:GetPlayers()) do if p ~= LocalPlayer then BuildCache(p) TrackConn(p.CharacterAdded:Connect(function() task.wait() BuildCache(p) end)) end end
+TrackConn(Players.PlayerAdded:Connect(function(p) TrackConn(p.CharacterAdded:Connect(function() task.wait() BuildCache(p) end)) end))
+
+TrackConn(RunService.Stepped:Connect(function()
+	if not AntiFlingEnabled or not Active then return end
+	for player, parts in pairs(trackedPlayers) do
+		if player.Character and player.Character.Parent then
+			for _, part in ipairs(parts) do if part.CanCollide then part.CanCollide = false end end
+		end
+	end
+end))
+
+-- FLY
+local flyConnection, bVelocity, bGyro
+local function ToggleFly(state)
+	FlyEnabled = state
+	if flyConnection then flyConnection:Disconnect() flyConnection = nil end
+	if bVelocity then bVelocity:Destroy() bVelocity = nil end
+	if bGyro then bGyro:Destroy() bGyro = nil end
+	local char = LocalPlayer.Character
+	local hum = char and char:FindFirstChildOfClass("Humanoid")
+	if hum then hum.PlatformStand = false end
+
+	if FlyEnabled then
+		local hrp = char and char:FindFirstChild("HumanoidRootPart")
+		if not hrp or not hum then return end
+		hum.PlatformStand = true
+		bGyro = Instance.new("BodyGyro", hrp)
+		bGyro.P = 9e4; bGyro.maxTorque = Vector3.new(9e9, 9e9, 9e9); bGyro.cframe = hrp.CFrame
+		bVelocity = Instance.new("BodyVelocity", hrp)
+		bVelocity.velocity = Vector3.new(0, 0.1, 0); bVelocity.maxForce = Vector3.new(9e9, 9e9, 9e9)
+		flyConnection = RunService.RenderStepped:Connect(function()
+			if not FlyEnabled or not Active or not hrp.Parent or not hum.Parent then return ToggleFly(false) end
+			bGyro.cframe = Camera.CFrame
+			local flyVelocity = hum.MoveDirection * FlySpeed
+			if UIS:IsKeyDown(Enum.KeyCode.Space) or (UIS.TouchEnabled and hum.Jump) then flyVelocity += Vector3.new(0, FlySpeed, 0) end
+			if UIS:IsKeyDown(Enum.KeyCode.LeftShift) then flyVelocity -= Vector3.new(0, FlySpeed, 0) end
+			bVelocity.velocity = flyVelocity
+		end)
+		TrackConn(flyConnection)
+	end
+	SaveAllSettings()
+end
+
+-- ============================================================
+-- ESP LOGIC
+-- ============================================================
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RoleCache = {}
+
+task.spawn(function()
+	while task.wait(0.5) do
+		if not Active then break end
+		pcall(function()
+			local data = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer()
+			if data then
+				local newCache = {}
+				for plrName, plrData in pairs(data) do
+					if type(plrData) == "table" and not plrData.Dead then newCache[plrName] = plrData.Role end
+				end
+				RoleCache = newCache
+			end
+		end)
+	end
+end)
+
+local function GetPlayerRole(player) return player and RoleCache[player.Name] or "Innocent" end
+
+local function GetMurdererV1()
+	for _, p in pairs(Players:GetPlayers()) do
+		if RoleCache[p.Name] == "Murderer" then return p, p.Character end
+	end
+	return nil, nil
+end
+
+local function GetSheriffV1()
+	for _, p in pairs(Players:GetPlayers()) do
+		if RoleCache[p.Name] == "Sheriff" or RoleCache[p.Name] == "Hero" then return p, p.Character end
+	end
+	return nil, nil
+end
+
+local function GetRoleColor(char)
+	local player = Players:GetPlayerFromCharacter(char)
+	if not player then return Color3.fromHSV(InnocentHue / 360, 1, 1) end
+	local role = GetPlayerRole(player)
+	if RoleESPEnabled then
+		if role == "Murderer" then return Color3.fromHSV(MurdererHue / 360, 1, 1) end
+		if role == "Sheriff" or role == "Hero" then return Color3.fromHSV(SheriffHue / 360, 1, 1) end
+	end
+	return Color3.fromHSV(InnocentHue / 360, 1, 1)
+end
+
+local function ApplyChams(char, color)
+	if not char then return end
+	local hrp = char:FindFirstChild("HumanoidRootPart")
+	if hrp then hrp.LocalTransparencyModifier = 1 end
+	for _, part in ipairs(char:GetDescendants()) do
+		if part:IsA("BasePart") and part ~= hrp and part.Transparency >= 1 then part.Transparency = 0.99 end
+	end
+	local existing = char:FindFirstChild("ChamsESP")
+	if existing then
+		existing.FillColor = color; existing.OutlineColor = color
+		existing.FillTransparency = EspFillTransparency / 100
+		return
+	end
+	local h = Instance.new("Highlight")
+	h.Name = "ChamsESP"; h.FillTransparency = EspFillTransparency / 100; h.OutlineTransparency = 0.25
+	h.FillColor = color; h.OutlineColor = color; h.Parent = char
+end
+
+local function UpdateAllPlayerChams()
+	if not ChamsESPEnabled then return end
+	for _, player in pairs(Players:GetPlayers()) do
+		if player ~= LocalPlayer and player.Character then ApplyChams(player.Character, GetRoleColor(player.Character)) end
+	end
+end
+
+local function RemoveChamsESP()
+	for _, player in pairs(Players:GetPlayers()) do
+		if player.Character then
+			local esp = player.Character:FindFirstChild("ChamsESP")
+			if esp then esp:Destroy() end
+			local hrp = player.Character:FindFirstChild("HumanoidRootPart")
+			if hrp then hrp.LocalTransparencyModifier = 0 end
+		end
+	end
+end
+
+-- GUN ESP
+local ActiveGunESPInstances = {}
+local function CreateGunESP(gun)
+	if not GunESPEnabled or gun:FindFirstChild("GunESP") then return end
+	local highlight = Instance.new("Highlight", gun)
+	highlight.Name = "GunESP"; highlight.FillColor = Color3.fromHSV(GunHue / 360, 1, 1)
+	highlight.OutlineColor = highlight.FillColor; highlight.FillTransparency = GunEspFillTransparency / 100
+	highlight.OutlineTransparency = 0.2
+	local billboard = Instance.new("BillboardGui", gun)
+	billboard.Name = "GunESP"; billboard.Size = UDim2.new(0, 120, 0, 20); billboard.StudsOffset = Vector3.new(0, 2, 0)
+	billboard.AlwaysOnTop = true; billboard.Enabled = GunTextESPEnabled
+	local text = Instance.new("TextLabel", billboard)
+	text.Size = UDim2.new(1, 0, 1, 0); text.BackgroundTransparency = 1
+	text.Text = "Gun Drop"; text.TextColor3 = Color3.fromRGB(210, 190, 255)
+	text.Font = Enum.Font.GothamBold; text.TextScaled = true
+	table.insert(ActiveGunESPInstances, highlight); table.insert(ActiveGunESPInstances, billboard)
+end
+
+local function UpdateAllGunObjects()
+	for _, v in pairs(ActiveGunESPInstances) do
+		if v and v.Parent then
+			if v:IsA("Highlight") then
+				v.FillColor = Color3.fromHSV(GunHue / 360, 1, 1)
+				v.FillTransparency = GunEspFillTransparency / 100
+				v.OutlineColor = v.FillColor
+			elseif v:IsA("BillboardGui") then v.Enabled = GunTextESPEnabled end
+		end
+	end
+end
+
+local function RemoveGunESP()
+	for _, v in pairs(ActiveGunESPInstances) do if v and v.Parent then v:Destroy() end end
+	table.clear(ActiveGunESPInstances)
+end
+
+TrackConn(workspace.DescendantAdded:Connect(function(obj)
+	if obj.Name == "GunDrop" and obj:IsA("BasePart") then
+		if GunESPEnabled then CreateGunESP(obj) end
+		if AutoGrabGunEnabled then
+			local char = LocalPlayer.Character
+			local hrp = char and char:FindFirstChild("HumanoidRootPart")
+			if hrp then
+				local originalCFrame = hrp.CFrame
+				task.wait(0.05)
+				hrp.CFrame = obj.CFrame + Vector3.new(0, 1.5, 0)
+				task.delay(0.25, function() if hrp then hrp.CFrame = originalCFrame end end)
+			end
+		end
+	end
+end))
+
+-- XRAY
+local xrayCache = {}
+local xrayConn
+local function IsPlayerPart(part)
+	for _, p in pairs(Players:GetPlayers()) do if p.Character and part:IsDescendantOf(p.Character) then return true end end
+	return false
+end
+
+local function ApplyXrayToPart(part)
+	if not part:IsA("BasePart") or IsPlayerPart(part) then return end
+	if xrayCache[part] == nil then xrayCache[part] = part.LocalTransparencyModifier end
+	part.LocalTransparencyModifier = 0.65
+end
+
+local function EnableXray()
+	for _, v in pairs(workspace:GetDescendants()) do ApplyXrayToPart(v) end
+	if xrayConn then xrayConn:Disconnect() end
+	xrayConn = workspace.DescendantAdded:Connect(ApplyXrayToPart)
+	TrackConn(xrayConn)
+end
+
+local function DisableXray()
+	if xrayConn then xrayConn:Disconnect() xrayConn = nil end
+	for part, old in pairs(xrayCache) do if part and part.Parent then part.LocalTransparencyModifier = old end end
+	xrayCache = {}
+end
+
+-- ============================================================
+-- GUI ROOT SETUP (TOP NAVBAR LAYOUT)
+-- ============================================================
+local gui = Instance.new("ScreenGui", game.CoreGui)
+gui.Name = "MinimalHub"; gui.ResetOnSpawn = false; gui.IgnoreGuiInset = true
+
+local main = Instance.new("Frame", gui)
+main.Size = UDim2.new(0, 560, 0, 380)
+main.Position = UDim2.new(0.5, -280, 0.5, -190)
+main.BackgroundColor3 = Color3.fromRGB(18, 18, 20)
+main.Active = true; main.Draggable = true; main.ClipsDescendants = true
+Instance.new("UICorner", main).CornerRadius = UDim.new(0, 10)
+
+local mainScale = Instance.new("UIScale", main)
+mainScale.Scale = GuiScale
+
+local titleBar = Instance.new("Frame", main)
+titleBar.Size = UDim2.new(1, 0, 0, 30)
+titleBar.BackgroundColor3 = Color3.fromRGB(24, 24, 26)
+Instance.new("UICorner", titleBar)
+
+local title = Instance.new("TextLabel", titleBar)
+title.Size = UDim2.new(1, -20, 1, 0); title.Position = UDim2.new(0, 10, 0, 0)
+title.BackgroundTransparency = 1; title.Text = "Mouse Hub | By Alienware"
+title.TextColor3 = Color3.fromRGB(220, 220, 230); title.Font = Enum.Font.GothamBold
+title.TextSize = 13; title.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Minimize button
+local minimizeBtn = Instance.new("TextButton", titleBar)
+minimizeBtn.Size = UDim2.new(0, 24, 0, 20); minimizeBtn.Position = UDim2.new(1, -30, 0.5, -10)
+minimizeBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 44); minimizeBtn.TextColor3 = Color3.fromRGB(220, 220, 230)
+minimizeBtn.Font = Enum.Font.GothamBold; minimizeBtn.TextSize = 14; minimizeBtn.Text = "-"
+Instance.new("UICorner", minimizeBtn).CornerRadius = UDim.new(0, 4)
+
+local tabBar = Instance.new("Frame", main)
+tabBar.Size = UDim2.new(1, 0, 0, 40)
+tabBar.Position = UDim2.new(0, 0, 0, 30)
+tabBar.BackgroundColor3 = Color3.fromRGB(21, 21, 23)
+
+local tabLayout = Instance.new("UIListLayout", tabBar)
+tabLayout.FillDirection = Enum.FillDirection.Horizontal
+tabLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+tabLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+tabLayout.Padding = UDim.new(0, 10)
+
+local contentRoot = Instance.new("Frame", main)
+contentRoot.Position = UDim2.new(0, 10, 0, 75)
+contentRoot.Size = UDim2.new(1, -20, 1, -85)
+contentRoot.BackgroundTransparency = 1
+
+local Pages = {}
+local TabButtons = {}
+
+local function SwitchTab(pageName)
+	for name, page in pairs(Pages) do page.Visible = (name == pageName) end
+	for name, btn in pairs(TabButtons) do
+		btn.BackgroundColor3 = (name == pageName) and Color3.fromRGB(40, 40, 44) or Color3.fromRGB(28, 28, 30)
+		btn.TextColor3 = (name == pageName) and Color3.fromRGB(230, 230, 240) or Color3.fromRGB(150, 150, 160)
+		btn:FindFirstChild("UIStroke").Enabled = (name == pageName)
+	end
+end
+
+local function MakePage(name)
+	local btn = Instance.new("TextButton", tabBar)
+	btn.Size = UDim2.new(0, 100, 0, 28)
+	btn.BackgroundColor3 = Color3.fromRGB(28, 28, 30); btn.TextColor3 = Color3.fromRGB(150, 150, 160)
+	btn.Font = Enum.Font.GothamBold; btn.TextSize = 12; btn.Text = name
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 6)
+	local stroke = Instance.new("UIStroke", btn)
+	stroke.Color = GetThemeColor(); stroke.Thickness = 1.5
+	stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border; stroke.Enabled = false
+	table.insert(ThemeColorElements, {inst = stroke, prop = "Color"})
+	TabButtons[name] = btn
+
+	local page = Instance.new("ScrollingFrame", contentRoot)
+	page.ScrollBarThickness = 4; page.CanvasSize = UDim2.new(0, 0, 0, 0)
+	page.AutomaticCanvasSize = Enum.AutomaticSize.Y; page.ScrollingDirection = Enum.ScrollingDirection.Y
+	page.Size = UDim2.new(1, 0, 1, 0); page.BackgroundTransparency = 1; page.Visible = false
+
+	local list = Instance.new("UIListLayout", page)
+	list.FillDirection = Enum.FillDirection.Vertical; list.SortOrder = Enum.SortOrder.LayoutOrder; list.Padding = UDim.new(0, 8)
+	local pad = Instance.new("UIPadding", page); pad.PaddingTop = UDim.new(0, 4); pad.PaddingBottom = UDim.new(0, 4)
+
+	list:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+		page.CanvasSize = UDim2.new(0, 0, 0, list.AbsoluteContentSize.Y + 16)
+	end)
+
+	Pages[name] = page
+	btn.Activated:Connect(function() SwitchTab(name) end)
+	return page
+end
+
+local espPage      = MakePage("ESP")
+local playerPage   = MakePage("Player")
+local teleportPage = MakePage("Teleport")
+local settingsPage = MakePage("Settings")
+SwitchTab("ESP")
+
+-- TOGGLE LOGIC
+local minimized = false
+minimizeBtn.Activated:Connect(function()
+	minimized = not minimized
+	minimizeBtn.Text = minimized and "+" or "-"
+	contentRoot.Visible = not minimized
+	tabBar.Visible = not minimized
+	TweenService:Create(main, TweenInfo.new(0.3, Enum.EasingStyle.Cubic, Enum.EasingDirection.Out), { Size = UDim2.new(0, 560, 0, minimized and 30 or 380) }):Play()
+end)
+
+TrackConn(UIS.InputBegan:Connect(function(input, gpe)
+	if gpe then return end
+	if WaitingForKey then
+		if input.KeyCode ~= Enum.KeyCode.Unknown then
+			HotkeyKey = input.KeyCode
+			WaitingForKey = false
+			SaveAllSettings()
+		end
+	elseif input.KeyCode == HotkeyKey then
+		main.Visible = not main.Visible
+	end
+end))
+
+-- UI BUILDER COMPONENTS
+local function CreateRow(parent, titleText, descText, default, callback, isButton)
+	local row = Instance.new("Frame", parent)
+	row.Size = UDim2.new(1, -10, 0, 48); row.BackgroundColor3 = Color3.fromRGB(28, 28, 32)
+	Instance.new("UICorner", row).CornerRadius = UDim.new(0, 8)
+	local titleLbl = Instance.new("TextLabel", row)
+	titleLbl.Size = UDim2.new(0.6, 0, 0, 20); titleLbl.Position = UDim2.new(0, 12, 0, 6)
+	titleLbl.BackgroundTransparency = 1; titleLbl.Text = titleText; titleLbl.TextColor3 = Color3.fromRGB(220, 220, 230)
+	titleLbl.Font = Enum.Font.GothamBold; titleLbl.TextSize = 13; titleLbl.TextXAlignment = Enum.TextXAlignment.Left
+	local descLbl = Instance.new("TextLabel", row)
+	descLbl.Size = UDim2.new(0.7, 0, 0, 18); descLbl.Position = UDim2.new(0, 12, 0, 24)
+	descLbl.BackgroundTransparency = 1; descLbl.Text = descText; descLbl.TextColor3 = Color3.fromRGB(140, 140, 150)
+	descLbl.Font = Enum.Font.Gotham; descLbl.TextSize = 11; descLbl.TextXAlignment = Enum.TextXAlignment.Left
+
+	if isButton then
+		local btn = Instance.new("TextButton", row)
+		btn.Size = UDim2.new(0, 120, 0, 24); btn.Position = UDim2.new(1, -132, 0.5, -12)
+		btn.BackgroundColor3 = Color3.fromRGB(40, 40, 44); btn.TextColor3 = Color3.fromRGB(220, 220, 230)
+		btn.Font = Enum.Font.GothamBold; btn.TextSize = 12; btn.Text = tostring(HotkeyKey.Name)
+		Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 6)
+		btn.Activated:Connect(function() WaitingForKey = true; btn.Text = "Press key..." end)
+		return btn
+	end
+
+	local toggle = Instance.new("Frame", row)
+	toggle.Size = UDim2.new(0, 40, 0, 20); toggle.Position = UDim2.new(1, -52, 0.5, -10)
+	toggle.BackgroundColor3 = default and GetThemeColor() or Color3.fromRGB(60, 60, 70)
+	Instance.new("UICorner", toggle).CornerRadius = UDim.new(1, 0)
+	table.insert(ThemeColorElements, {inst = toggle, prop = "BackgroundColor3"})
+	local knob = Instance.new("Frame", toggle)
+	knob.Size = UDim2.new(0, 18, 0, 18); knob.Position = default and UDim2.new(1, -19, 0, 1) or UDim2.new(0, 1, 0, 1)
+	knob.BackgroundColor3 = Color3.fromRGB(210, 210, 220)
+	Instance.new("UICorner", knob).CornerRadius = UDim.new(1, 0)
+
+	local hitBtn = Instance.new("TextButton", row)
+	hitBtn.Size = UDim2.new(1, 0, 1, 0); hitBtn.BackgroundTransparency = 1; hitBtn.Text = ""
+
+	local state = default
+	hitBtn.Activated:Connect(function()
+		state = not state
+		knob:TweenPosition(state and UDim2.new(1, -19, 0, 1) or UDim2.new(0, 1, 0, 1), "Out", "Quad", 0.15, true)
+		toggle.BackgroundColor3 = state and GetThemeColor() or Color3.fromRGB(60, 60, 70)
+		callback(state)
+	end)
+	return row
+end
+
+local function CreateActionRow(parent, titleText, descText, buttonText, callback)
+	local row = Instance.new("Frame", parent)
+	row.Size = UDim2.new(1, -10, 0, 48); row.BackgroundColor3 = Color3.fromRGB(28, 28, 32)
+	Instance.new("UICorner", row).CornerRadius = UDim.new(0, 8)
+	local titleLbl = Instance.new("TextLabel", row)
+	titleLbl.Size = UDim2.new(0.6, 0, 0, 20); titleLbl.Position = UDim2.new(0, 12, 0, 6)
+	titleLbl.BackgroundTransparency = 1; titleLbl.Text = titleText; titleLbl.TextColor3 = Color3.fromRGB(220, 220, 230)
+	titleLbl.Font = Enum.Font.GothamBold; titleLbl.TextSize = 13; titleLbl.TextXAlignment = Enum.TextXAlignment.Left
+	local descLbl = Instance.new("TextLabel", row)
+	descLbl.Size = UDim2.new(0.7, 0, 0, 18); descLbl.Position = UDim2.new(0, 12, 0, 24)
+	descLbl.BackgroundTransparency = 1; descLbl.Text = descText; descLbl.TextColor3 = Color3.fromRGB(140, 140, 150)
+	descLbl.Font = Enum.Font.Gotham; descLbl.TextSize = 11; descLbl.TextXAlignment = Enum.TextXAlignment.Left
+
+	local btn = Instance.new("TextButton", row)
+	btn.Size = UDim2.new(0, 120, 0, 24); btn.Position = UDim2.new(1, -132, 0.5, -12)
+	btn.BackgroundColor3 = Color3.fromRGB(40, 40, 44); btn.TextColor3 = Color3.fromRGB(220, 220, 230)
+	btn.Font = Enum.Font.GothamBold; btn.TextSize = 12; btn.Text = buttonText
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 6)
+	btn.Activated:Connect(function() callback(btn) end)
+	return btn
+end
+
+local function CreateSliderRow(parent, titleText, descText, minVal, maxVal, currentVal, callback, isHueSlider)
+	local row = Instance.new("Frame", parent)
+	row.Size = UDim2.new(1, -10, 0, 68); row.BackgroundColor3 = Color3.fromRGB(28, 28, 32)
+	Instance.new("UICorner", row).CornerRadius = UDim.new(0, 8)
+
+	local titleLbl = Instance.new("TextLabel", row)
+	titleLbl.Size = UDim2.new(0.7, 0, 0, 20); titleLbl.Position = UDim2.new(0, 12, 0, 6)
+	titleLbl.BackgroundTransparency = 1; titleLbl.Text = titleText; titleLbl.TextColor3 = Color3.fromRGB(220, 220, 230)
+	titleLbl.Font = Enum.Font.GothamBold; titleLbl.TextSize = 13; titleLbl.TextXAlignment = Enum.TextXAlignment.Left
+	local valueLbl = Instance.new("TextLabel", row)
+	valueLbl.Size = UDim2.new(0, 50, 0, 20); valueLbl.Position = UDim2.new(1, -62, 0, 6)
+	valueLbl.BackgroundTransparency = 1; valueLbl.Text = tostring(math.floor(currentVal))
+	valueLbl.TextColor3 = GetThemeColor(); valueLbl.Font = Enum.Font.GothamBold; valueLbl.TextSize = 13; valueLbl.TextXAlignment = Enum.TextXAlignment.Right
+	table.insert(ThemeColorElements, {inst = valueLbl, prop = "TextColor3"})
+
+	local descLbl = Instance.new("TextLabel", row)
+	descLbl.Size = UDim2.new(0.8, 0, 0, 16); descLbl.Position = UDim2.new(0, 12, 0, 24)
+	descLbl.BackgroundTransparency = 1; descLbl.Text = descText; descLbl.TextColor3 = Color3.fromRGB(140, 140, 150)
+	descLbl.Font = Enum.Font.Gotham; descLbl.TextSize = 11; descLbl.TextXAlignment = Enum.TextXAlignment.Left
+
+	local trackBG = Instance.new("Frame", row)
+	trackBG.Size = UDim2.new(1, -24, 0, 8); trackBG.Position = UDim2.new(0, 12, 0, 50)
+	trackBG.BackgroundColor3 = Color3.fromRGB(50, 50, 56)
+	Instance.new("UICorner", trackBG).CornerRadius = UDim.new(1, 0)
+
+	local fill = Instance.new("Frame", trackBG)
+	fill.Size = UDim2.new((currentVal - minVal) / (maxVal - minVal), 0, 1, 0)
+	fill.BackgroundColor3 = isHueSlider and Color3.fromHSV(currentVal / 360, 1, 1) or GetThemeColor()
+	Instance.new("UICorner", fill).CornerRadius = UDim.new(1, 0)
+	if not isHueSlider then table.insert(ThemeColorElements, {inst = fill, prop = "BackgroundColor3"}) end
+
+	local knob = Instance.new("Frame", trackBG)
+	knob.Position = UDim2.new((currentVal - minVal) / (maxVal - minVal), -8, 0.5, -8)
+	knob.Size = UDim2.new(0, 16, 0, 16); knob.BackgroundColor3 = Color3.fromRGB(210, 210, 220)
+	Instance.new("UICorner", knob).CornerRadius = UDim.new(1, 0)
+
+	local dragging = false
+	local function UpdateFromAbsX(absX)
+		local ratio = math.clamp((absX - trackBG.AbsolutePosition.X) / trackBG.AbsoluteSize.X, 0, 1)
+		local val = math.floor(minVal + ratio * (maxVal - minVal))
+		fill.Size = UDim2.new(ratio, 0, 1, 0)
+		if isHueSlider then fill.BackgroundColor3 = Color3.fromHSV(val / 360, 1, 1) end
+		knob.Position = UDim2.new(ratio, -8, 0.5, -8); valueLbl.Text = tostring(val)
+		callback(val)
+	end
+
+	trackBG.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then dragging = true; main.Draggable = false; UpdateFromAbsX(input.Position.X) end
+	end)
+	knob.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then dragging = true; main.Draggable = false end
+	end)
+	TrackConn(UIS.InputEnded:Connect(function(input)
+		if dragging and input.UserInputType == Enum.UserInputType.MouseButton1 then dragging = false; main.Draggable = true end
+	end))
+	TrackConn(UIS.InputChanged:Connect(function(input)
+		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then UpdateFromAbsX(input.Position.X) end
+	end))
+end
+
+local function CreateInputRow(parent, titleText, descText, defaultText, callback)
+	local row = Instance.new("Frame", parent)
+	row.Size = UDim2.new(1, -10, 0, 48); row.BackgroundColor3 = Color3.fromRGB(28, 28, 32)
+	Instance.new("UICorner", row).CornerRadius = UDim.new(0, 8)
+	local titleLbl = Instance.new("TextLabel", row)
+	titleLbl.Size = UDim2.new(0.5, 0, 0, 20); titleLbl.Position = UDim2.new(0, 12, 0, 6)
+	titleLbl.BackgroundTransparency = 1; titleLbl.Text = titleText; titleLbl.TextColor3 = Color3.fromRGB(220, 220, 230)
+	titleLbl.Font = Enum.Font.GothamBold; titleLbl.TextSize = 13; titleLbl.TextXAlignment = Enum.TextXAlignment.Left
+	local descLbl = Instance.new("TextLabel", row)
+	descLbl.Size = UDim2.new(0.5, 0, 0, 18); descLbl.Position = UDim2.new(0, 12, 0, 24)
+	descLbl.BackgroundTransparency = 1; descLbl.Text = descText; descLbl.TextColor3 = Color3.fromRGB(140, 140, 150)
+	descLbl.Font = Enum.Font.Gotham; descLbl.TextSize = 11; descLbl.TextXAlignment = Enum.TextXAlignment.Left
+
+	local txtInput = Instance.new("TextBox", row)
+	txtInput.Size = UDim2.new(0, 140, 0, 26); txtInput.Position = UDim2.new(1, -152, 0.5, -13)
+	txtInput.BackgroundColor3 = Color3.fromRGB(40, 40, 44); txtInput.TextColor3 = GetThemeColor()
+	txtInput.Font = Enum.Font.GothamBold; txtInput.TextSize = 12; txtInput.Text = defaultText; txtInput.ClearTextOnFocus = true
+	Instance.new("UICorner", txtInput).CornerRadius = UDim.new(0, 6)
+	table.insert(ThemeColorElements, {inst = txtInput, prop = "TextColor3"})
+
+	txtInput.FocusLost:Connect(function(enter)
+		if enter then callback(txtInput.Text, txtInput) end
+	end)
+end
+
+-- ============================================================
+-- POPULATE MENUS
+-- ============================================================
+-- ESP Page
+CreateRow(espPage, "Freecam", "Detach and fly camera (V to unlock cursor)", FreecamEnabled, ToggleFreecam)
+CreateSliderRow(espPage, "Freecam Speed", "Adjust camera speed", 10, 200, FreecamSpeed, function(v) FreecamSpeed = v SaveAllSettings() end)
+CreateRow(espPage, "Chams ESP", "Highlight all players", ChamsESPEnabled, function(v) ChamsESPEnabled = v; if not v then RemoveChamsESP() else UpdateAllPlayerChams() end; SaveAllSettings() end)
+CreateRow(espPage, "Role Detection", "Color murderer and sheriff", RoleESPEnabled, function(v) RoleESPEnabled = v UpdateAllPlayerChams() SaveAllSettings() end)
+CreateSliderRow(espPage, "Murderer Color", "Change Murderer ESP color scale", 0, 360, MurdererHue, function(v) MurdererHue = v UpdateAllPlayerChams() SaveAllSettings() end, true)
+CreateSliderRow(espPage, "Sheriff Color", "Change Sheriff ESP color scale", 0, 360, SheriffHue, function(v) SheriffHue = v UpdateAllPlayerChams() SaveAllSettings() end, true)
+CreateRow(espPage, "Gun ESP", "Highlight dropped gun", GunESPEnabled, function(v) GunESPEnabled = v; if not v then RemoveGunESP() end; SaveAllSettings() end)
+CreateRow(espPage, "Xray", "See through walls", XrayEnabled, function(v) XrayEnabled = v; if v then EnableXray() else DisableXray() end; SaveAllSettings() end)
+
+-- Player Page
+CreateRow(playerPage, "Fly", "Fly using WASD", FlyEnabled, ToggleFly)
+CreateSliderRow(playerPage, "Fly Speed", "Adjust your speed while flying", 10, 200, FlySpeed, function(v) FlySpeed = v SaveAllSettings() end)
+CreateRow(playerPage, "Noclip", "Walk through walls", NoclipEnabled, ToggleNoclip)
+CreateRow(playerPage, "Infinite Jump", "Jump endlessly in mid-air", InfiniteJumpEnabled, function(v) InfiniteJumpEnabled = v SaveAllSettings() end)
+CreateRow(playerPage, "Anti Fling", "Disables collision to prevent fling", AntiFlingEnabled, function(v) AntiFlingEnabled = v SaveAllSettings() end)
+CreateSliderRow(playerPage, "Walk Speed", "Default is 16", 16, 100, PlayerSpeed, function(v) PlayerSpeed = v ApplyCharacterStats() SaveAllSettings() end)
+CreateSliderRow(playerPage, "Jump Power", "Default is 50", 50, 250, PlayerJump, function(v) PlayerJump = v ApplyCharacterStats() SaveAllSettings() end)
+CreateSliderRow(playerPage, "FOV", "Default 70", 30, 120, PlayerFOV, function(v) PlayerFOV = v ApplyFOV() SaveAllSettings() end)
+CreateRow(playerPage, "Infinite Zoom", "Zoom out far distances", InfiniteZoomEnabled, function(v) InfiniteZoomEnabled = v; if v then EnableInfiniteZoom() else DisableInfiniteZoom() end; SaveAllSettings() end)
+
+-- Teleport Page
+CreateRow(teleportPage, "Auto Grab Gun", "Teleports to dropped gun", AutoGrabGunEnabled, function(v) AutoGrabGunEnabled = v SaveAllSettings() end)
+CreateActionRow(teleportPage, "Teleport to Murderer", "Instantly teleport to murderer", "Teleport", function(btn)
+	local char = LocalPlayer.Character; local hrp = char and char:FindFirstChild("HumanoidRootPart")
+	local _, mChar = GetMurdererV1()
+	if hrp and mChar and mChar:FindFirstChild("HumanoidRootPart") then hrp.CFrame = mChar.HumanoidRootPart.CFrame + Vector3.new(0, 3, 0)
+	else btn.Text = "Not Found"; task.delay(1.5, function() btn.Text = "Teleport" end) end
+end)
+CreateActionRow(teleportPage, "Teleport to Sheriff", "Instantly teleport to sheriff", "Teleport", function(btn)
+	local char = LocalPlayer.Character; local hrp = char and char:FindFirstChild("HumanoidRootPart")
+	local _, sChar = GetSheriffV1()
+	if hrp and sChar and sChar:FindFirstChild("HumanoidRootPart") then hrp.CFrame = sChar.HumanoidRootPart.CFrame + Vector3.new(0, 3, 0)
+	else btn.Text = "Not Found"; task.delay(1.5, function() btn.Text = "Teleport" end) end
+end)
+CreateInputRow(teleportPage, "Teleport to Player", "Type partial name & press Enter", "Enter name...", function(txt, inputObj)
+	txt = txt:lower()
+	for _, p in pairs(Players:GetPlayers()) do
+		if p ~= LocalPlayer and (p.Name:lower():sub(1, #txt) == txt or p.DisplayName:lower():sub(1, #txt) == txt) then
+			if LocalPlayer.Character and p.Character then
+				local myHRP = LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+				local trgHRP = p.Character:FindFirstChild("HumanoidRootPart")
+				if myHRP and trgHRP then
+					myHRP.CFrame = trgHRP.CFrame * CFrame.new(0, 0, 3)
+					inputObj.Text = "Teleported!"; task.delay(1.5, function() inputObj.Text = "Enter name..." end)
+					return
+				end
+			end
+		end
+	end
+	inputObj.Text = "Not Found"; task.delay(1.5, function() inputObj.Text = "Enter name..." end)
+end)
+
+-- Settings Page
+local hotkeyBtn = CreateRow(settingsPage, "GUI Hotkey", "Select key to show/hide GUI", false, function() end, true)
+CreateSliderRow(settingsPage, "GUI Size", "Adjust the scale of the menu", 50, 200, GuiScale * 100, function(v)
+	GuiScale = v / 100; if mainScale then mainScale.Scale = GuiScale end; SaveAllSettings()
+end)
+CreateSliderRow(settingsPage, "Theme Hue", "Change the script's theme color", 0, 360, ThemeHue, function(v)
+	ThemeHue = v; ApplyThemeColor(); SaveAllSettings() 
+end, true)
+
+-- Startup Calls
+ApplyThemeColor()
+if FreecamEnabled then StartFreecam() end
+if NoclipEnabled then ToggleNoclip(true) end
+if FlyEnabled then ToggleFly(true) end
+if XrayEnabled then EnableXray() end
